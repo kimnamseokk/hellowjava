@@ -6,5 +6,9 @@ public class Main {
         System.out.println("hellow word");
 
         System.out.println("hellow word2");
+
+        System.out.println("hellow word4");
+
+        System.out.println("hellow word3");
     }
 }

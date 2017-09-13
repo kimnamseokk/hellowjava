@@ -13,6 +13,6 @@ public class Main {
 
         System.out.println("hellow word7");
 		
-		System.out.println("hello word8");
+		System.out.println("첫 주차 과제용 공유");
     }
 }
